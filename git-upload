@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.mail homestuck111@gmail.com
+git add .
+#git commit -m "20190206_15_15"
+git commit -m $1
+git push origin master
+fi
