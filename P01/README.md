@@ -1,2 +1,2 @@
-#P04
-##Nokopetajs laboratorijas darbs Nr 1
+# P04
+## Nokopetajs laboratorijas darbs Nr 1
