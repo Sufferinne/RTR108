@@ -1,0 +1,10 @@
+     --- memory_game ---
+
+Kods tika rakstits no nulles, un netika kopets no citas vietnes. Ideju esam izdomajusi pasi.
+
+
+Augstaka karta attelosana uz ekrana nokia 5110:
+https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
+
+Randoma skaitla generesana:
+https://www.arduino.cc/reference/en/language/functions/random-numbers/random/
